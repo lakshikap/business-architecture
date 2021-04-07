@@ -20,12 +20,13 @@ Business Architecture primarily focuses on aligning an enterprise&#39;s strategy
 
 This paper aims to provide clarity and guidance to bridge this gap in the business architecture discipline. It is based on knowledge gathered from the cross-cutting disciplines of business strategy, value creation, information systems strategy and business architecture concepts, as well as continuous analysis of enterprises and practice in the industry. It also embodies a logical approach to aligning strategy with execution.
 
-The paper is organized into four main sections:
+The paper is organized into five main sections:
 
 + Presents the representative components of a business architecture
 + Basic guide to designing business architecture
 + Illustrates a real-world scenario of a Postal Service and applies the guideline in practice
 + Discusses the iterative development of business architecture in agile environments
++ Return on investment: evaluating the returns and benefits
 
 ## 1.0 Business Architecture and its Main Components of Representation
 
@@ -246,9 +247,9 @@ In the context of the Postal Service scenario, the strategy is already known by 
 The posting of a normal local letter can be considered as the main customer journey for the MVP as it is the most common occurrence in the Postal Service. Thereafter, in the analysis of the current process, existing business capabilities and values can be captured in the first sprint. While deriving the requirements, the new capabilities and new values can be identified and incorporated into the business architecture in subsequent sprints, thereby improving the business architecture iteratively as the development progresses. 
 
 
-## Finishing Touches
+## 5.0 Return on Investment
 
-**Framework for Evaluating the Achievement**
+**Framework for Evaluating Achievement**
 
 Once the formal digital transformation initiative has completed major phases or agile sprints with significant outcomes, they can be compared with the business architecture. There are two perspectives to this:
 
@@ -258,9 +259,17 @@ This is achieved on a daily basis through business outcomes such as by reducing 
 
 - However, on a more initiative-focused approach, the KPIs in table 2 can be used to measure the before and after states of the achievements. These are more short-term and are achieved instantly during the course of the initiative, and not suitable for assessing the strategic alignment.
 
+**Benefits of Business Architecture**
+
+There are a number of advantages of designing and maintaining a business architecture for an enterprise. 
++ First and foremost, it enables an enterprise to maintain strategic alignment and achieve the vision, objectives and corporate or business strategy. While the vision is farfetched, the objectives provide a more quantifiable approach to achieving the vision. This has been explained in the section ‘Framework for Evaluating Achievement’.
++ Promoting organizational health and well-being by generating an ability to be flexible and agile in the delivery, enabled by its iterative nature.
++ Responding to changes or exploiting opportunities arising from the external and internal environment, as beneficial to the enterprise and in turn to create a favourable outcome. 
++ Facilitating enterprise performance and growth in a competitive marketplace by implementing best practices, encouraging reuse and monitoring metrics to deliver value to customers. 
+
 ## Summary
 
-In summary, this paper presents a simple, but pragmatic approach to designing business architecture for digital transformation initiatives in alignment with the strategic objectives. The paper discusses a five-step approach to designing business architecture including identification of its individual components and the organization of these components in one illustration. The business architecture goes hand in hand with the solution architecture of the initiative and is part of the enterprise architecture. The iterative nature of the business architecture makes it a suitable candidate for the popular agile approach to implementation in digital initiatives. Once the initiative has produced significant outcomes, they can be compared using the two-pronged evaluation framework presented in this paper. Overall, business architecture is a perfect candidate for business professionals or leadership teams to realize the value of digital transformation.
+In consclusion, this paper presents a simple, but pragmatic approach to designing business architecture for digital transformation initiatives in alignment with an enterprise's strategic objectives. It discusses a five-step approach to designing business architecture from the identification of its individual components and the organization of these components in one illustration. This is presented by applying the 5-step model to a real-world Postal Service in Europe. The business architecture goes hand in hand with the solution architecture of the initiative and is part of the enterprise architecture. The iterative nature of the business architecture makes it a suitable candidate for the popular agile approach to implementation in digital initiatives. Once the initiative has produced significant outcomes, they can be compared using the two-pronged evaluation framework presented in this paper. Overall, business architecture is a perfect candidate for business professionals or leadership teams to realize the value of digital transformation.
 
 **Bibliography**
 
