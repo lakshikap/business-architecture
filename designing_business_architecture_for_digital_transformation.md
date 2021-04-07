@@ -1,7 +1,7 @@
 <h1 align="center"> Designing Business Architecture for Digital Transformation Initiatives </center></h1>
 <p align="center">
 <i>
-Version: Spring 2021<br/>
+Version: April 2021<br/>
 </i>
 </p>
 
@@ -20,13 +20,12 @@ Business Architecture primarily focuses on aligning an enterprise&#39;s strategy
 
 This paper aims to provide clarity and guidance to bridge this gap in the business architecture discipline. It is based on knowledge gathered from the cross-cutting disciplines of business strategy, value creation, information systems strategy and business architecture concepts, as well as continuous analysis of enterprises and practice in the industry. It also embodies a logical approach to aligning strategy with execution.
 
-The paper is organized into three main sections:
+The paper is organized into four main sections:
 
-1) Presents the representative components of a business architecture
-
-2) Basic guide to designing business architecture
-
-3) Illustrates a real-world scenario of a Postal Service and applies the guideline in practice
++ Presents the representative components of a business architecture
++ Basic guide to designing business architecture
++ Illustrates a real-world scenario of a Postal Service and applies the guideline in practice
++ Discusses the iterative development of business architecture in agile environments
 
 ## 1.0 Business Architecture and its Main Components of Representation
 
@@ -214,6 +213,38 @@ Figure 4: Desired Business Architecture
 The identified business objectives are depicted on the top of the diagram, with a brief guide on the left side of figure 4. Compare figure 2 and 4 for a better understanding of how the business capabilities have changed and improved.
 
 While the business architecture depicts the strategic perspective, it does not show quantifiable information from key performance indicators, although they are important for proposing an improved perspective for the digital transformation initiative. Hence, an evaluation framework is proposed below.
+
+## 4.0 Iterative Development of Business Architecture in Agile Environments
+
+Digital transformation is a journey and often enterprises adopt Agile practices in these initiatives to ensure products are developed iteratively. Unfortunately, most companies adopt the waterfall-agile process instead of the ‘true’ agile practice. Following diagram (refer figure 5) depicts how business architecture develops hand-in-hand with a true agile implementation. The objective is to illustrate how business architecture supports the true agile practice by smooth integration.
+
+<p align="center">
+  <img src="https://github.com/lakshikap/business-architecture/blob/5a2f96a46e0edba8290a485bd4fe64c99cafffb8/images/BA%20in%20agile%20process%20-%20Agile%20chart.png">
+</p>
+
+<p align="center">
+  
+<p align="center">
+<i>
+Figure 5: Business architecture & support for 'true' agility
+</i>
+</p>
+
+In an agile environment, the minimum viable product (MVP) is the first deliverable. For the first sprint, a few customer journeys are analyzed to identify the relevant user stories that are suitable to form the MVP. In this process, one or two customer journeys can be selected for which the user stories are derived. Simultaneously, the business architect can identify the business capabilities, while developers build the first milestone. 
+
+In the context of the Postal Service scenario, the strategy is already known by the time the initiative is kicked-off. There are two main customer scenarios captured in the scope of this story, which can be broken down into several other variations:
+
++ The letter posting process 
+  + Normal letter
+  + Registered letter
+  + Local or international letters
++ The parcel sending process
+  + Local or international parcels
+  + Parcels by priority
+
+
+The posting of a normal local letter can be considered as the main customer journey for the MVP as it is the most common occurrence in the Postal Service. Thereafter, in the analysis of the current process, existing business capabilities and values can be captured in the first sprint. While deriving the requirements, the new capabilities and new values can be identified and incorporated into the business architecture in subsequent sprints, thereby improving the business architecture iteratively as the development progresses. 
+
 
 ## Finishing Touches
 
