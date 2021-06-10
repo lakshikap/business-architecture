@@ -282,5 +282,4 @@ In consclusion, this paper presents a simple, but pragmatic approach to designin
 [1]Some such bodies are TOGAF, Business Architecture Guild and The Open Group, while others include analysts like Forrester and Gartner etc.
 
 
-Copyright  (April 2021) Lakshika Paiva
 
